@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d78b477-0e66-4374-90cb-c069cb0f2b45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eror.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/log1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eror.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,12 +51,24 @@
       <option name="presentableId" value="Default" />
       <updated>1673724548533</updated>
       <workItem from="1673724550645" duration="190000" />
-      <workItem from="1673724792581" duration="1036000" />
-      <workItem from="1673780582319" duration="1209000" />
+      <workItem from="1673724792581" duration="930000" />
+      <workItem from="1673796015302" duration="11000" />
+      <workItem from="1673801045967" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
