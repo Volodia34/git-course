@@ -1,0 +1,50 @@
+Index: script.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>document.body.innerHTML = '<h1>Hello from JavaScript</h1>'\r
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/script.js b/script.js
+--- a/script.js	
++++ b/script.js	
+@@ -1,1 +1,2 @@
+-document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
+\ No newline at end of file
++document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
++console.log('Test 2')
+Index: .gitignore
+===================================================================
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+--- a/.gitignore	
++++ /dev/null	
+@@ -1,3 +0,0 @@
+-eror.txt
+-erors.txt
+-/log
+\ No newline at end of file
+Index: readme.md
+===================================================================
+diff --git a/readme.md b/readme.md
+deleted file mode 100644
+--- a/readme.md	
++++ /dev/null	
+@@ -1,3 +0,0 @@
+-# Git and Github Course
+-
+-Crash course for Git 
+\ No newline at end of file
+Index: log/log1.txt
+===================================================================
+diff --git a/log/log1.txt b/log/log1.txt
+deleted file mode 100644
+--- a/log/log1.txt	
++++ /dev/null	
+@@ -1,1 +0,0 @@
+-log log log 42
+\ No newline at end of file
+diff --git a/eror.txt b/eror.txt
+deleted file mode 100644
+diff --git a/erors.txt b/erors.txt
+deleted file mode 100644
